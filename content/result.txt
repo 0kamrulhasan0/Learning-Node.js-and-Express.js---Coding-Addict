@@ -1,0 +1,3 @@
+Util Modul Promise, Await:
+First: Hello this is second txt.
+Second: test txt
